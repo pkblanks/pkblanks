@@ -11,7 +11,7 @@ I’m driven by a passion for protecting systems and solving complex security ch
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/pkblanks/threat-hunting-scenario-tor/blob/main/README.md)**
 
 <hr/>
 
